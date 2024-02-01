@@ -1,1 +1,1 @@
-//hola mundo
+echo("hola mundo")
